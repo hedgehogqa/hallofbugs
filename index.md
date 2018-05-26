@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Hedgehog Hall of Bugs
 
-You can use the [editor on GitHub](https://github.com/hedgehogqa/hallofbugs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hedgehog has been out for more than a year now, and it's getting
+hard to keep track of all the cool bugs found by users! So, let's
+start now.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Hall of Bugs is intended as a place to accumulate links,
+stories, and anecdotes about Hedgehog in the real world. 
 
-### Markdown
+This library is maintained by volunteers at no cost to you.
+Information about how the library is used is invaluable to us, as
+are success stories, no matter how small!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Call for Submissions!
 
-```markdown
-Syntax highlighted code block
+If you're getting great value out of Hedgehog, we'd love to hear
+from you! Submit an issue or PR on the
+[Hall of Bugs](https://github.com/hedgehogqa/hallofbugs)
+repository and we can add it to this page.
 
-# Header 1
-## Header 2
-### Header 3
+Submissions should include one of:
 
-- Bulleted
-- List
+- Public GitHub issue / PR, if the bug was in a public repo
+- A rough description of the bug, your generators, and the counterexample
+- CVE link, if the bug had a security impact!
+- News coverage of the bug you found! (Someday, surely!)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hedgehogqa/hallofbugs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you can't say anything publicly, consider just letting us know
+you're using the library! Those messages are great for maintainer
+morale.
